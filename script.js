@@ -1,4 +1,4 @@
-let seniorDevs = ["Mcdavid", "Samuel", "Green", "Anayo", "Prosper", "VoN"];
+let seniorDevs = ["Mcdavid", "Samuel", "Green", "Anayo", "Prosper", "VoN", "Ifeanyi"];
 let juniorDevs = ["Funmi", "Mary", "Hope", "Salvation", "Glory", "Rachael"];
 let places = ["Paris", "Scandid", "Ekohotel", "Beach"];
 
