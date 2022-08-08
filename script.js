@@ -1,6 +1,6 @@
-let seniorDevs = ["Mcdavid", "Samuel", "Green", "Anayo", "Prosper", "VoN", "Ifeanyi"];
+let seniorDevs = ["Mcdavid", "Samuel", "Green", "Anayo", "Prosper", "VoN"];
 let juniorDevs = ["Funmi", "Mary", "Hope", "Salvation", "Glory", "Rachael"];
-let places = ["Paris", "Scandid", "Ekohotel", "Beach"];
+let places = ["Paris", "Royal Albert Hall", "Ekohotel", "Beach"];
 
 function getRandom(arr1, arr2, arr3) {
   const result1 = arr1[Math.floor(Math.random() * arr1.length)];
